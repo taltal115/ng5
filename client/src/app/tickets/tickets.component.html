@@ -1,0 +1,25 @@
+<!-- Main -->
+<main>
+  <div class="container" style="height:1300px;">
+    <div class="row mt-5 pt-5">
+      <div class="col text-center">
+        <table class="table">
+          <tr>
+            <th *ngFor="let col of columns">
+              {{col}}
+            </th>
+            <th>Actions</th>
+          </tr>
+          <tr *ngFor="let char of characters | async">
+            <td *ngFor="let col of columns">
+              {{char[col]}}
+            </td>
+            <td><button type="button" class="btn waves-light" mdbWavesEffect (click)="newTicket()">Delete</button></td>
+          </tr>
+        </table>
+        <button type="button" class="new-ticket-btn btn btn-rounded waves-light" mdbWavesEffect (click)="newTicket()">ADD</button>
+      </div>
+    </div>
+  </div>
+</main>
+<!-- /.Main -->
