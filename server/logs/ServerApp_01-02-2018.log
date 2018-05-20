@@ -1,0 +1,1061 @@
+2018-02-01T08:48:25.340Z - info: Request: 
+2018-02-01T08:48:25.361Z - info: start partpartpartpart: 
+2018-02-01T08:48:25.611Z - info: fileObj uuid:
+2018-02-01T08:48:25.614Z - info: end
+2018-02-01T08:48:30.358Z - info: response
+2018-02-01T08:48:30.397Z - info: COMPLETED U fdsPLOAD
+2018-02-01T08:48:30.397Z - info: 
+2018-02-01T08:48:30.403Z - info: asset: 
+2018-02-01T08:53:04.044Z - info: Request: 
+2018-02-01T08:53:04.045Z - info: start partpartpartpart: 
+2018-02-01T08:53:04.108Z - info: fileObj uuid:
+2018-02-01T08:53:04.108Z - info: end
+2018-02-01T08:53:06.450Z - info: response
+2018-02-01T08:53:06.464Z - info: COMPLETED U fdsPLOAD
+2018-02-01T08:53:06.464Z - info: 
+2018-02-01T08:53:06.465Z - info: asset: 
+2018-02-01T08:55:15.059Z - info: Request: 
+2018-02-01T08:55:15.060Z - info: start partpartpartpart: 
+2018-02-01T08:55:15.173Z - info: fileObj uuid:
+2018-02-01T08:55:15.173Z - info: end
+2018-02-01T08:55:19.340Z - info: response
+2018-02-01T08:55:19.355Z - info: COMPLETED U fdsPLOAD
+2018-02-01T08:55:19.355Z - info: 
+2018-02-01T08:55:19.355Z - info: asset: 
+2018-02-01T08:58:01.164Z - info: Request: 
+2018-02-01T08:58:01.172Z - info: start partpartpartpart: 
+2018-02-01T08:58:01.324Z - info: fileObj uuid:
+2018-02-01T08:58:01.324Z - info: end
+2018-02-01T08:58:05.732Z - info: response
+2018-02-01T08:58:05.747Z - info: COMPLETED U fdsPLOAD
+2018-02-01T08:58:05.747Z - info: 
+2018-02-01T08:58:05.752Z - info: asset: 
+2018-02-01T09:06:09.714Z - info: [32m--------------------------------------------------------------
+                                 Name:					 MAM Server
+                                 Environment:			 development
+                                 Port:					' 3000
+                                 Database:				 mongodb://localhost:27017/mitve_db
+                                 --------------------------------------------------------------[39m
+2018-02-01T09:06:38.920Z - info: [32m--------------------------------------------------------------
+                                 Name:					 MAM Server
+                                 Environment:			 development
+                                 Port:					' 3000
+                                 Database:				 mongodb://localhost:27017/mitve_db
+                                 --------------------------------------------------------------[39m
+2018-02-01T09:06:47.946Z - info: [32m--------------------------------------------------------------
+                                 Name:					 MAM Server
+                                 Environment:			 development
+                                 Port:					 3000
+                                 Database:				 mongodb://localhost:27017/mitve_db
+                                 --------------------------------------------------------------[39m
+2018-02-01T09:10:28.083Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T09:24:06.978Z - info: Request: 
+2018-02-01T09:24:06.987Z - info: start partpartpartpart: 
+2018-02-01T09:24:07.200Z - info: fileObj uuid:
+2018-02-01T09:24:07.200Z - info: end
+2018-02-01T09:24:11.116Z - info: response
+2018-02-01T09:24:11.128Z - info: COMPLETED U fdsPLOAD
+2018-02-01T09:24:11.128Z - info: 
+2018-02-01T09:24:11.132Z - info: asset: 
+2018-02-01T09:25:55.201Z - info: Request: 
+2018-02-01T09:25:55.203Z - info: start partpartpartpart: 
+2018-02-01T09:25:55.273Z - info: fileObj uuid:
+2018-02-01T09:25:55.273Z - info: end
+2018-02-01T09:25:57.807Z - info: response
+2018-02-01T09:25:57.820Z - info: COMPLETED U fdsPLOAD
+2018-02-01T09:25:57.820Z - info: 
+2018-02-01T09:25:57.820Z - info: asset: 
+2018-02-01T09:27:48.504Z - info: Request: 
+2018-02-01T09:27:48.505Z - info: start partpartpartpart: 
+2018-02-01T09:27:48.606Z - info: fileObj uuid:
+2018-02-01T09:27:48.606Z - info: end
+2018-02-01T09:27:51.916Z - info: response
+2018-02-01T09:27:51.928Z - info: COMPLETED U fdsPLOAD
+2018-02-01T09:27:51.928Z - info: 
+2018-02-01T09:27:51.929Z - info: asset: 
+2018-02-01T09:29:30.279Z - info: Request: 
+2018-02-01T09:29:30.280Z - info: start partpartpartpart: 
+2018-02-01T09:29:30.389Z - info: fileObj uuid:
+2018-02-01T09:29:30.389Z - info: end
+2018-02-01T09:29:33.648Z - info: response
+2018-02-01T09:29:33.660Z - info: COMPLETED U fdsPLOAD
+2018-02-01T09:29:33.660Z - info: 
+2018-02-01T09:29:33.661Z - info: asset: 
+2018-02-01T09:32:11.760Z - info: Request: 
+2018-02-01T09:32:11.762Z - info: start partpartpartpart: 
+2018-02-01T09:32:11.905Z - info: fileObj uuid:
+2018-02-01T09:32:11.905Z - info: end
+2018-02-01T09:32:15.845Z - info: response
+2018-02-01T09:32:15.858Z - info: COMPLETED U fdsPLOAD
+2018-02-01T09:32:15.858Z - info: 
+2018-02-01T09:32:15.858Z - info: asset: 
+2018-02-01T09:34:35.855Z - info: Request: 
+2018-02-01T09:34:35.856Z - info: start partpartpartpart: 
+2018-02-01T09:34:35.942Z - info: fileObj uuid:
+2018-02-01T09:34:35.942Z - info: end
+2018-02-01T09:34:38.578Z - info: response
+2018-02-01T09:34:38.592Z - info: COMPLETED U fdsPLOAD
+2018-02-01T09:34:38.592Z - info: 
+2018-02-01T09:34:38.593Z - info: asset: 
+2018-02-01T12:29:09.635Z - info: Request: 
+2018-02-01T12:29:09.636Z - info: start partpartpartpart: 
+2018-02-01T12:29:09.696Z - info: fileObj uuid:
+2018-02-01T12:29:09.697Z - info: end
+2018-02-01T12:29:12.438Z - info: response
+2018-02-01T12:29:12.456Z - info: COMPLETED U fdsPLOAD
+2018-02-01T12:29:12.456Z - info: 
+2018-02-01T12:29:12.457Z - info: asset: 
+2018-02-01T12:55:41.805Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T12:58:03.806Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T13:01:16.268Z - info: Request: 
+2018-02-01T13:01:16.274Z - info: start partpartpartpart: 
+2018-02-01T13:01:16.348Z - info: fileObj uuid:
+2018-02-01T13:01:16.348Z - info: end
+2018-02-01T13:01:18.871Z - info: response
+2018-02-01T13:01:18.887Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:01:18.887Z - info: 
+2018-02-01T13:01:18.890Z - info: asset: 
+2018-02-01T13:01:19.213Z - info: Request: 
+2018-02-01T13:01:19.214Z - info: start partpartpartpart: 
+2018-02-01T13:01:19.257Z - info: fileObj uuid:
+2018-02-01T13:01:19.257Z - info: end
+2018-02-01T13:01:21.002Z - info: response
+2018-02-01T13:01:21.016Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:01:21.016Z - info: 
+2018-02-01T13:01:21.016Z - info: asset: 
+2018-02-01T13:01:21.099Z - info: Request: 
+2018-02-01T13:01:21.101Z - info: start partpartpartpart: 
+2018-02-01T13:01:21.126Z - info: fileObj uuid:
+2018-02-01T13:01:21.126Z - info: end
+2018-02-01T13:01:22.820Z - info: response
+2018-02-01T13:01:22.833Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:01:22.833Z - info: 
+2018-02-01T13:01:22.833Z - info: asset: 
+2018-02-01T13:01:23.233Z - info: Request: 
+2018-02-01T13:01:23.234Z - info: start partpartpartpart: 
+2018-02-01T13:01:23.256Z - info: fileObj uuid:
+2018-02-01T13:01:23.256Z - info: end
+2018-02-01T13:01:24.813Z - info: response
+2018-02-01T13:01:24.845Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:01:24.846Z - info: 
+2018-02-01T13:01:24.848Z - info: asset: 
+2018-02-01T13:01:25.741Z - info: Request: 
+2018-02-01T13:01:25.742Z - info: start partpartpartpart: 
+2018-02-01T13:01:25.814Z - info: fileObj uuid:
+2018-02-01T13:01:25.814Z - info: end
+2018-02-01T13:01:28.527Z - info: response
+2018-02-01T13:01:28.547Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:01:28.547Z - info: 
+2018-02-01T13:01:28.548Z - info: asset: 
+2018-02-01T13:17:36.979Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T13:17:46.341Z - info: Request: 
+2018-02-01T13:17:46.347Z - info: start partpartpartpart: 
+2018-02-01T13:17:46.423Z - info: fileObj uuid:
+2018-02-01T13:17:46.423Z - info: end
+2018-02-01T13:17:48.497Z - info: response
+2018-02-01T13:17:48.510Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:17:48.511Z - info: 
+2018-02-01T13:17:48.514Z - info: asset: 
+2018-02-01T13:17:54.002Z - info: Request: 
+2018-02-01T13:17:54.003Z - info: start partpartpartpart: 
+2018-02-01T13:17:54.098Z - info: fileObj uuid:
+2018-02-01T13:17:54.098Z - info: end
+2018-02-01T13:17:56.332Z - info: response
+2018-02-01T13:17:56.343Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:17:56.343Z - info: 
+2018-02-01T13:17:56.343Z - info: asset: 
+2018-02-01T13:17:57.161Z - info: Request: 
+2018-02-01T13:17:57.162Z - info: start partpartpartpart: 
+2018-02-01T13:17:57.272Z - info: fileObj uuid:
+2018-02-01T13:17:57.273Z - info: end
+2018-02-01T13:17:59.712Z - info: response
+2018-02-01T13:17:59.727Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:17:59.727Z - info: 
+2018-02-01T13:17:59.728Z - info: asset: 
+2018-02-01T13:18:00.415Z - info: Request: 
+2018-02-01T13:18:00.417Z - info: start partpartpartpart: 
+2018-02-01T13:18:00.431Z - info: fileObj uuid:
+2018-02-01T13:18:00.432Z - info: end
+2018-02-01T13:18:02.042Z - info: response
+2018-02-01T13:18:02.057Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:02.057Z - info: 
+2018-02-01T13:18:02.058Z - info: asset: 
+2018-02-01T13:18:02.358Z - info: Request: 
+2018-02-01T13:18:02.360Z - info: start partpartpartpart: 
+2018-02-01T13:18:02.425Z - info: fileObj uuid:
+2018-02-01T13:18:02.430Z - info: end
+2018-02-01T13:18:04.276Z - info: Request: 
+2018-02-01T13:18:04.277Z - info: start partpartpartpart: 
+2018-02-01T13:18:04.543Z - info: fileObj uuid:
+2018-02-01T13:18:04.551Z - info: end
+2018-02-01T13:18:05.057Z - info: response
+2018-02-01T13:18:05.080Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:05.080Z - info: 
+2018-02-01T13:18:05.081Z - info: asset: 
+2018-02-01T13:18:06.233Z - info: Request: 
+2018-02-01T13:18:06.234Z - info: start partpartpartpart: 
+2018-02-01T13:18:08.057Z - info: response
+2018-02-01T13:18:08.092Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:08.092Z - info: 
+2018-02-01T13:18:08.096Z - info: asset: 
+2018-02-01T13:18:08.368Z - info: Request: 
+2018-02-01T13:18:08.377Z - info: start partpartpartpart: 
+2018-02-01T13:18:08.401Z - info: fileObj uuid:
+2018-02-01T13:18:08.401Z - info: end
+2018-02-01T13:18:08.843Z - info: fileObj uuid:
+2018-02-01T13:18:08.853Z - info: end
+2018-02-01T13:18:10.145Z - info: Request: 
+2018-02-01T13:18:10.146Z - info: start partpartpartpart: 
+2018-02-01T13:18:10.186Z - info: fileObj uuid:
+2018-02-01T13:18:10.190Z - info: end
+2018-02-01T13:18:10.753Z - info: response
+2018-02-01T13:18:10.769Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:10.769Z - info: 
+2018-02-01T13:18:10.770Z - info: asset: 
+2018-02-01T13:18:11.937Z - info: Request: 
+2018-02-01T13:18:11.939Z - info: start partpartpartpart: 
+2018-02-01T13:18:12.106Z - info: fileObj uuid:
+2018-02-01T13:18:12.113Z - info: end
+2018-02-01T13:18:12.522Z - info: response
+2018-02-01T13:18:12.536Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:12.537Z - info: 
+2018-02-01T13:18:12.537Z - info: asset: 
+2018-02-01T13:18:13.405Z - info: Request: 
+2018-02-01T13:18:13.406Z - info: start partpartpartpart: 
+2018-02-01T13:18:13.437Z - info: fileObj uuid:
+2018-02-01T13:18:13.438Z - info: end
+2018-02-01T13:18:14.603Z - info: response
+2018-02-01T13:18:14.621Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:14.622Z - info: 
+2018-02-01T13:18:14.623Z - info: asset: 
+2018-02-01T13:18:14.679Z - info: Request: 
+2018-02-01T13:18:14.680Z - info: start partpartpartpart: 
+2018-02-01T13:18:14.745Z - info: fileObj uuid:
+2018-02-01T13:18:14.745Z - info: end
+2018-02-01T13:18:15.996Z - info: Request: 
+2018-02-01T13:18:15.996Z - info: start partpartpartpart: 
+2018-02-01T13:18:16.316Z - info: response
+2018-02-01T13:18:16.346Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:16.346Z - info: 
+2018-02-01T13:18:16.347Z - info: asset: 
+2018-02-01T13:18:16.583Z - info: fileObj uuid:
+2018-02-01T13:18:16.589Z - info: end
+2018-02-01T13:18:17.587Z - info: Request: 
+2018-02-01T13:18:17.589Z - info: start partpartpartpart: 
+2018-02-01T13:18:17.767Z - info: fileObj uuid:
+2018-02-01T13:18:17.767Z - info: end
+2018-02-01T13:18:17.940Z - info: response
+2018-02-01T13:18:17.964Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:17.964Z - info: 
+2018-02-01T13:18:17.968Z - info: asset: 
+2018-02-01T13:18:18.900Z - info: Request: 
+2018-02-01T13:18:18.907Z - info: start partpartpartpart: 
+2018-02-01T13:18:18.952Z - info: fileObj uuid:
+2018-02-01T13:18:18.952Z - info: end
+2018-02-01T13:18:21.021Z - info: Request: 
+2018-02-01T13:18:21.021Z - info: start partpartpartpart: 
+2018-02-01T13:18:21.308Z - info: fileObj uuid:
+2018-02-01T13:18:21.310Z - info: end
+2018-02-01T13:18:21.583Z - info: response
+2018-02-01T13:18:21.606Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:21.606Z - info: 
+2018-02-01T13:18:21.607Z - info: asset: 
+2018-02-01T13:18:22.974Z - info: Request: 
+2018-02-01T13:18:22.975Z - info: start partpartpartpart: 
+2018-02-01T13:18:23.352Z - info: response
+2018-02-01T13:18:23.387Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:23.387Z - info: 
+2018-02-01T13:18:23.388Z - info: asset: 
+2018-02-01T13:18:23.629Z - info: fileObj uuid:
+2018-02-01T13:18:23.635Z - info: end
+2018-02-01T13:18:23.636Z - info: response
+2018-02-01T13:18:23.658Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:23.658Z - info: 
+2018-02-01T13:18:23.659Z - info: asset: 
+2018-02-01T13:18:24.775Z - info: Request: 
+2018-02-01T13:18:24.777Z - info: start partpartpartpart: 
+2018-02-01T13:18:24.999Z - info: fileObj uuid:
+2018-02-01T13:18:25.001Z - info: end
+2018-02-01T13:18:27.353Z - info: response
+2018-02-01T13:18:27.365Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:27.365Z - info: 
+2018-02-01T13:18:27.366Z - info: asset: 
+2018-02-01T13:18:28.882Z - info: response
+2018-02-01T13:18:28.894Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:28.894Z - info: 
+2018-02-01T13:18:28.894Z - info: asset: 
+2018-02-01T13:18:30.693Z - info: response
+2018-02-01T13:18:30.707Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:30.707Z - info: 
+2018-02-01T13:18:30.708Z - info: asset: 
+2018-02-01T13:18:54.915Z - info: response
+2018-02-01T13:18:54.934Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:18:54.934Z - info: 
+2018-02-01T13:18:54.935Z - info: asset: 
+2018-02-01T13:19:32.715Z - info: Request: 
+2018-02-01T13:19:32.717Z - info: start partpartpartpart: 
+2018-02-01T13:19:32.743Z - info: fileObj uuid:
+2018-02-01T13:19:32.743Z - info: end
+2018-02-01T13:19:34.693Z - info: response
+2018-02-01T13:19:34.712Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:19:34.712Z - info: 
+2018-02-01T13:19:34.713Z - info: asset: 
+2018-02-01T13:19:35.072Z - info: Request: 
+2018-02-01T13:19:35.074Z - info: start partpartpartpart: 
+2018-02-01T13:19:35.100Z - info: fileObj uuid:
+2018-02-01T13:19:35.100Z - info: end
+2018-02-01T13:19:36.976Z - info: response
+2018-02-01T13:19:36.995Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:19:36.995Z - info: 
+2018-02-01T13:19:36.996Z - info: asset: 
+2018-02-01T13:19:45.162Z - info: Request: 
+2018-02-01T13:19:45.164Z - info: start partpartpartpart: 
+2018-02-01T13:19:45.189Z - info: fileObj uuid:
+2018-02-01T13:19:45.190Z - info: end
+2018-02-01T13:19:46.852Z - info: response
+2018-02-01T13:19:46.877Z - info: COMPLETED U fdsPLOAD
+2018-02-01T13:19:46.878Z - info: 
+2018-02-01T13:19:46.878Z - info: asset: 
+2018-02-01T13:33:02.308Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T13:34:34.803Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T13:36:30.440Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T13:36:53.686Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T13:37:44.885Z - info: Request: 
+2018-02-01T13:37:44.899Z - info: start :  [object Object]
+2018-02-01T13:37:44.970Z - info: fileObj uuid: 3bb2b924-27ff-4ef3-b9eb-8841c554cd83
+2018-02-01T13:37:44.970Z - info: end: undefined
+2018-02-01T13:37:47.357Z - info: response
+2018-02-01T13:37:47.370Z - info: COMPLETED UPLOAD
+2018-02-01T13:37:47.381Z - info: asset: 
+2018-02-01T13:38:57.089Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T13:39:10.658Z - info: Request: 
+2018-02-01T13:39:10.666Z - info: start :  [object Object]
+2018-02-01T13:39:10.732Z - info: fileObj uuid: 09eade9a-3a24-4193-b985-b6807706973f
+2018-02-01T13:39:13.387Z - info: response
+2018-02-01T13:39:13.399Z - info: COMPLETED UPLOAD
+2018-02-01T13:39:13.403Z - info: asset: { fileName: 'VfE_html5 (1).mp4',
+  uuid: '09eade9a-3a24-4193-b985-b6807706973f',
+  orgId: '0',
+  userId: 'ABCD12345',
+  status: 'uploaded',
+  lastUpdated: 1517492353399,
+  created_by: 'BishBash',
+  version_no: '1',
+  active: false,
+  originalFilePath: 'N/A',
+  thumbnails: [],
+  poster: '',
+  proxy: [],
+  info: '',
+  _id: 5a731881173a4b4709f97e39,
+  tags: [],
+  genres: [],
+  categories: [] }
+2018-02-01T13:59:16.876Z - error: uncaughtException: rotate is not defined date=Thu Feb 01 2018 15:59:16 GMT+0200 (IST), pid=21039, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=75640832, heapTotal=64425984, heapUsed=32427376, external=17867320, loadavg=[0.89501953125, 0.62353515625, 2.23291015625], uptime=550404, trace=[column=9, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=new SPLogger, line=26, method=null, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/logger.js, function=null, line=4, method=null, native=false, column=30, file=module.js, function=Module._compile, line=635, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=646, method=.js, native=false, column=32, file=module.js, function=Module.load, line=554, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=497, method=null, native=false, column=3, file=module.js, function=Module._load, line=489, method=_load, native=false, column=17, file=module.js, function=Module.require, line=579, method=require, native=false, column=18, file=internal/module.js, function=require, line=11, method=null, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/helper.js, function=null, line=5, method=null, native=false, column=30, file=module.js, function=Module._compile, line=635, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=646, method=.js, native=false, column=32, file=module.js, function=Module.load, line=554, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=497, method=null, native=false, column=3, file=module.js, function=Module._load, line=489, method=_load, native=false, column=17, file=module.js, function=Module.require, line=579, method=require, native=false], stack=[ReferenceError: rotate is not defined,     at new SPLogger (/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:26:9),     at Object.<anonymous> (/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/logger.js:4:16),     at Module._compile (module.js:635:30),     at Object.Module._extensions..js (module.js:646:10),     at Module.load (module.js:554:32),     at tryModuleLoad (module.js:497:12),     at Function.Module._load (module.js:489:3),     at Module.require (module.js:579:17),     at require (internal/module.js:11:18),     at Object.<anonymous> (/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/helper.js:5:16),     at Module._compile (module.js:635:30),     at Object.Module._extensions..js (module.js:646:10),     at Module.load (module.js:554:32),     at tryModuleLoad (module.js:497:12),     at Function.Module._load (module.js:489:3),     at Module.require (module.js:579:17)]
+2018-02-01T14:00:01.144Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:01:47.716Z - error: uncaughtException: path must be a string or Buffer date=Thu Feb 01 2018 16:01:47 GMT+0200 (IST), pid=21422, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=73777152, heapTotal=63901696, heapUsed=43679120, external=21203375, loadavg=[2.01025390625, 1.2216796875, 2.21875], uptime=550555, trace=[column=11, file=fs.js, function=Object.fs.readdir, line=897, method=readdir, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=Function.rotate, line=119, method=rotate, native=false, column=18, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=new SPLogger, line=25, method=null, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/logger.js, function=null, line=4, method=null, native=false, column=30, file=module.js, function=Module._compile, line=635, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=646, method=.js, native=false, column=32, file=module.js, function=Module.load, line=554, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=497, method=null, native=false, column=3, file=module.js, function=Module._load, line=489, method=_load, native=false, column=17, file=module.js, function=Module.require, line=579, method=require, native=false, column=18, file=internal/module.js, function=require, line=11, method=null, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/helper.js, function=null, line=5, method=null, native=false, column=30, file=module.js, function=Module._compile, line=635, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=646, method=.js, native=false, column=32, file=module.js, function=Module.load, line=554, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=497, method=null, native=false], stack=[TypeError: path must be a string or Buffer,     at Object.fs.readdir (fs.js:897:11),     at Function.rotate (/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:119:16),     at new SPLogger (/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:25:18),     at Object.<anonymous> (/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/logger.js:4:16),     at Module._compile (module.js:635:30),     at Object.Module._extensions..js (module.js:646:10),     at Module.load (module.js:554:32),     at tryModuleLoad (module.js:497:12),     at Function.Module._load (module.js:489:3),     at Module.require (module.js:579:17),     at require (internal/module.js:11:18),     at Object.<anonymous> (/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/helper.js:5:16),     at Module._compile (module.js:635:30),     at Object.Module._extensions..js (module.js:646:10),     at Module.load (module.js:554:32),     at tryModuleLoad (module.js:497:12)]
+2018-02-01T14:02:41.368Z - error: uncaughtException: path must be a string or Buffer date=Thu Feb 01 2018 16:02:41 GMT+0200 (IST), pid=21553, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=71585792, heapTotal=63377408, heapUsed=43581664, external=21309521, loadavg=[2.26123046875, 1.37890625, 2.21337890625], uptime=550609, trace=[column=11, file=fs.js, function=Object.fs.readdir, line=897, method=readdir, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=Function.rotate, line=119, method=rotate, native=false, column=18, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=new SPLogger, line=25, method=null, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/logger.js, function=null, line=4, method=null, native=false, column=30, file=module.js, function=Module._compile, line=635, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=646, method=.js, native=false, column=32, file=module.js, function=Module.load, line=554, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=497, method=null, native=false, column=3, file=module.js, function=Module._load, line=489, method=_load, native=false, column=17, file=module.js, function=Module.require, line=579, method=require, native=false, column=18, file=internal/module.js, function=require, line=11, method=null, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/helper.js, function=null, line=5, method=null, native=false, column=30, file=module.js, function=Module._compile, line=635, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=646, method=.js, native=false, column=32, file=module.js, function=Module.load, line=554, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=497, method=null, native=false], stack=[TypeError: path must be a string or Buffer,     at Object.fs.readdir (fs.js:897:11),     at Function.rotate (/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:119:16),     at new SPLogger (/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:25:18),     at Object.<anonymous> (/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/logger.js:4:16),     at Module._compile (module.js:635:30),     at Object.Module._extensions..js (module.js:646:10),     at Module.load (module.js:554:32),     at tryModuleLoad (module.js:497:12),     at Function.Module._load (module.js:489:3),     at Module.require (module.js:579:17),     at require (internal/module.js:11:18),     at Object.<anonymous> (/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/helper.js:5:16),     at Module._compile (module.js:635:30),     at Object.Module._extensions..js (module.js:646:10),     at Module.load (module.js:554:32),     at tryModuleLoad (module.js:497:12)]
+2018-02-01T14:03:46.234Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:05:20.351Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:06:58.977Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:10:50.800Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:13:38.515Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:13:38.924Z - error: uncaughtException: Cannot read property 'length' of null date=Thu Feb 01 2018 16:13:38 GMT+0200 (IST), pid=22489, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=107110400, heapTotal=83382272, heapUsed=63196256, external=19880302, loadavg=[2.5888671875, 1.57177734375, 1.8154296875], uptime=551266, trace=[column=49, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=null, line=124, method=null, native=false, column=15, file=fs.js, function=FSReqWrap.oncomplete, line=135, method=oncomplete, native=false], stack=[TypeError: Cannot read property 'length' of null,     at /home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:124:49,     at FSReqWrap.oncomplete (fs.js:135:15)]
+2018-02-01T14:13:46.446Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:13:46.807Z - error: uncaughtException: Cannot read property 'length' of null date=Thu Feb 01 2018 16:13:46 GMT+0200 (IST), pid=22551, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=106119168, heapTotal=83382272, heapUsed=62919744, external=19651650, loadavg=[2.46142578125, 1.5625, 1.81103515625], uptime=551274, trace=[column=49, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=null, line=124, method=null, native=false, column=15, file=fs.js, function=FSReqWrap.oncomplete, line=135, method=oncomplete, native=false], stack=[TypeError: Cannot read property 'length' of null,     at /home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:124:49,     at FSReqWrap.oncomplete (fs.js:135:15)]
+2018-02-01T14:14:20.625Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:14:21.140Z - error: uncaughtException: Cannot read property 'length' of null date=Thu Feb 01 2018 16:14:21 GMT+0200 (IST), pid=22712, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=108412928, heapTotal=86528000, heapUsed=57048216, external=18148913, loadavg=[1.99365234375, 1.521484375, 1.787109375], uptime=551309, trace=[column=45, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=null, line=123, method=null, native=false, column=15, file=fs.js, function=FSReqWrap.oncomplete, line=135, method=oncomplete, native=false], stack=[TypeError: Cannot read property 'length' of null,     at /home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:123:45,     at FSReqWrap.oncomplete (fs.js:135:15)]
+2018-02-01T14:14:50.233Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:14:50.751Z - error: uncaughtException: Cannot read property 'length' of null date=Thu Feb 01 2018 16:14:50 GMT+0200 (IST), pid=22781, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=107753472, heapTotal=86528000, heapUsed=57033400, external=18148913, loadavg=[2.16748046875, 1.61328125, 1.80908203125], uptime=551338, trace=[column=56, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=null, line=124, method=null, native=false, column=15, file=fs.js, function=FSReqWrap.oncomplete, line=135, method=oncomplete, native=false], stack=[TypeError: Cannot read property 'length' of null,     at /home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:124:56,     at FSReqWrap.oncomplete (fs.js:135:15)]
+2018-02-01T14:15:47.096Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:18:41.292Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:18:41.660Z - error: uncaughtException: Cannot read property 'logDir' of null date=Thu Feb 01 2018 16:18:41 GMT+0200 (IST), pid=23090, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=106909696, heapTotal=83382272, heapUsed=63190264, external=19651650, loadavg=[1.80078125, 1.53857421875, 1.7216796875], uptime=551569, trace=[column=34, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=null, line=123, method=null, native=false, column=15, file=fs.js, function=FSReqWrap.oncomplete, line=135, method=oncomplete, native=false], stack=[TypeError: Cannot read property 'logDir' of null,     at /home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:123:34,     at FSReqWrap.oncomplete (fs.js:135:15)]
+2018-02-01T14:19:17.919Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:20:31.364Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:21:34.160Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:22:43.327Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:23:33.840Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:25:20.351Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:25:20.863Z - error: uncaughtException: Cannot read property 'logPath' of null date=Thu Feb 01 2018 16:25:20 GMT+0200 (IST), pid=23850, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=108564480, heapTotal=86528000, heapUsed=57036376, external=18148913, loadavg=[1.59375, 1.74169921875, 1.76904296875], uptime=551968, trace=[column=38, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=null, line=121, method=null, native=false, column=15, file=fs.js, function=FSReqWrap.oncomplete, line=135, method=oncomplete, native=false], stack=[TypeError: Cannot read property 'logPath' of null,     at /home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:121:38,     at FSReqWrap.oncomplete (fs.js:135:15)]
+2018-02-01T14:26:44.774Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:26:45.351Z - error: uncaughtException: Cannot read property 'logDir' of null date=Thu Feb 01 2018 16:26:45 GMT+0200 (IST), pid=23973, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=108904448, heapTotal=86003712, heapUsed=58796992, external=18951975, loadavg=[1.51611328125, 1.66015625, 1.7373046875], uptime=552053, trace=[column=38, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=null, line=121, method=null, native=false, column=15, file=fs.js, function=FSReqWrap.oncomplete, line=135, method=oncomplete, native=false], stack=[TypeError: Cannot read property 'logDir' of null,     at /home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:121:38,     at FSReqWrap.oncomplete (fs.js:135:15)]
+2018-02-01T14:27:21.765Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:29:09.615Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:30:45.184Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:30:45.610Z - error: uncaughtException: items is not defined date=Thu Feb 01 2018 16:30:45 GMT+0200 (IST), pid=24403, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=106930176, heapTotal=83382272, heapUsed=63157024, external=19880302, loadavg=[1.982421875, 1.556640625, 1.67431640625], uptime=552293, trace=[column=33, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=null, line=126, method=null, native=false, column=15, file=fs.js, function=FSReqWrap.oncomplete, line=135, method=oncomplete, native=false], stack=[ReferenceError: items is not defined,     at /home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:126:33,     at FSReqWrap.oncomplete (fs.js:135:15)]
+2018-02-01T14:32:11.935Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:32:12.342Z - error: uncaughtException: items is not defined date=Thu Feb 01 2018 16:32:12 GMT+0200 (IST), pid=24527, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=106668032, heapTotal=83382272, heapUsed=63211496, external=19651650, loadavg=[1.857421875, 1.6083984375, 1.6826171875], uptime=552380, trace=[column=33, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=null, line=126, method=null, native=false, column=15, file=fs.js, function=FSReqWrap.oncomplete, line=135, method=oncomplete, native=false], stack=[ReferenceError: items is not defined,     at /home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:126:33,     at FSReqWrap.oncomplete (fs.js:135:15)]
+2018-02-01T14:34:47.883Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:35:32.581Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:36:23.793Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:48:55.796Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:49:39.543Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:50:09.832Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:50:22.125Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:50:47.452Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:51:13.766Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:51:34.054Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:52:02.104Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:52:58.555Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:53:27.810Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:55:41.768Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T14:56:12.746Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:00:06.984Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:00:29.918Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:00:43.987Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:01:31.829Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:02:28.222Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:11:23.633Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:11:44.206Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:12:30.107Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:13:04.933Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:14:19.535Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:17:45.300Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:18:16.640Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:21:19.825Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:26:33.943Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:26:49.539Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:28:41.513Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:29:23.807Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:35:38.046Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:38:24.903Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:40:20.548Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:44:00.987Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:44:15.407Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:47:36.825Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:49:34.402Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:51:55.062Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:52:00.079Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:54:18.013Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:54:53.958Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T15:57:05.404Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:02:14.247Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:06:06.146Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:07:11.544Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:07:51.085Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:09:07.336Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:10:23.665Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:10:41.542Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:11:37.465Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:11:56.201Z - error: uncaughtException: this.rotate is not a function date=Thu Feb 01 2018 18:11:56 GMT+0200 (IST), pid=738, uid=1000, gid=1000, cwd=/home/tal/Workspace/Dev/ditve-mam/server, execPath=/usr/bin/node, version=v8.9.3, argv=[/usr/bin/node, /home/tal/Workspace/Dev/ditve-mam/server/bin/www, dotenv_config_path=.env.dev], rss=73097216, heapTotal=63901696, heapUsed=43689696, external=21203375, loadavg=[2.01953125, 1.6005859375, 1.32958984375], uptime=558364, trace=[column=14, file=/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js, function=new SPLogger, line=26, method=null, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/logger.js, function=null, line=4, method=null, native=false, column=30, file=module.js, function=Module._compile, line=635, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=646, method=.js, native=false, column=32, file=module.js, function=Module.load, line=554, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=497, method=null, native=false, column=3, file=module.js, function=Module._load, line=489, method=_load, native=false, column=17, file=module.js, function=Module.require, line=579, method=require, native=false, column=18, file=internal/module.js, function=require, line=11, method=null, native=false, column=16, file=/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/helper.js, function=null, line=5, method=null, native=false, column=30, file=module.js, function=Module._compile, line=635, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=646, method=.js, native=false, column=32, file=module.js, function=Module.load, line=554, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=497, method=null, native=false, column=3, file=module.js, function=Module._load, line=489, method=_load, native=false, column=17, file=module.js, function=Module.require, line=579, method=require, native=false], stack=[TypeError: this.rotate is not a function,     at new SPLogger (/home/tal/Workspace/Dev/ditve-mam/sp_logger/index.js:26:14),     at Object.<anonymous> (/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/logger.js:4:16),     at Module._compile (module.js:635:30),     at Object.Module._extensions..js (module.js:646:10),     at Module.load (module.js:554:32),     at tryModuleLoad (module.js:497:12),     at Function.Module._load (module.js:489:3),     at Module.require (module.js:579:17),     at require (internal/module.js:11:18),     at Object.<anonymous> (/home/tal/Workspace/Dev/ditve-mam/server/dist/utils/helper.js:5:16),     at Module._compile (module.js:635:30),     at Object.Module._extensions..js (module.js:646:10),     at Module.load (module.js:554:32),     at tryModuleLoad (module.js:497:12),     at Function.Module._load (module.js:489:3),     at Module.require (module.js:579:17)]
+2018-02-01T16:12:15.172Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:12:20.569Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:13:31.184Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:14:23.568Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
+2018-02-01T16:25:27.086Z - info: [32m
+--------------------------------------------------------------
+Name:					 MAM Server
+Environment:			 development
+Port:					 3000
+Database:				 mongodb://localhost:27017/mitve_db
+--------------------------------------------------------------
+[39m
